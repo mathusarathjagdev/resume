@@ -1,0 +1,61 @@
+.parent{
+    display: flex;
+    height:2000px;
+    width: 100%;
+}
+.child1{
+    background-color: rgb(163, 89, 89);
+    height: 1500px;
+    width:450px
+}
+img{
+    height: 200px;
+    width: 211px;
+    border-radius: 148px;
+    transform: rotate(270deg);
+    text-align: center;
+}
+.img1{
+    text-align: center;
+}
+.icons{
+    color: white;
+}
+.heading1{
+    background-color: white;
+    width: 100%;
+}
+.progress{
+    width: 200px;
+   
+}
+.skillchild{
+    color: white;
+}
+.softwarechild{
+    color:white;
+}
+
+
+.child2{
+    background-color: whitesmoke;
+    height: 1500px;
+    width: 900px;
+}
+.namechild{
+    color: rgb(163, 89, 89);
+    
+}
+.name{
+    text-align: center;
+}
+.social{
+    background-color: rgb(163, 89, 89);
+}
+.socialchild{
+    color: white;
+    text-align: center;
+}
+.heading2{
+    color:rgb(163, 89, 89);
+}
